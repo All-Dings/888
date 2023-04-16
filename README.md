@@ -1,5 +1,1 @@
-# Metzingen with Nicole
-
-On 2023-04-02, I meet Nicole in Metzingen to buy some new Cloths and make some Test-Photos for my Project:
-
-<img src="1000000000.jpg" alt="Nicole and Michael in Metzingen" style="width:800px;"/>
+888.md
